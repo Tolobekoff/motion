@@ -1,0 +1,63 @@
+#logos {
+    background: #222;
+    padding: 30px 0;
+}
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.block1 {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    width: 240px;
+    height: 130px;
+    background: #fff;
+    text-align: center;
+    border-radius: 13px;
+}
+.block1 h1 {
+    color: #FF001E;
+font-size: 48px;
+font-weight: 700;
+line-height: normal;
+margin-top: 20px;
+}
+.block1 h4 {
+    color: #000;
+font-size: 14px;
+font-weight: 400;
+line-height: normal;
+}
+.proverka {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 60px 0;
+}
+.proverka img {
+    width: 200px;
+}
+.proverka-text h2{
+    color: #FFF;
+font-size: 36px;
+font-weight: 700;
+line-height: normal;
+}
+.proverka-text p {
+    color: #FFF;
+font-size: 16px;
+font-weight: 300;
+line-height: normal;
+margin: 20px 0;
+}
+.provBtns button {
+padding: 17px 40px;
+background-color: #FF001E;
+border-radius: 10px;
+border: none;
+margin: 0 10px;
+}
+

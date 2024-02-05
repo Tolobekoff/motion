@@ -1,0 +1,77 @@
+#about {
+    background-color: #222;
+}
+.about-info {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.about h2{
+    color: #FFF;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: normal;
+}
+.block {
+    width: 300px;
+height: 500px;
+flex-direction: column;
+display: flex;
+justify-content: space-between;
+padding: 20px 0;
+}
+.block button {
+    padding: 15px 40px;
+    border-radius: 10px;
+background: #222;
+color: #fff;
+border: none;
+}
+.block button:hover {
+    background: #FF001E;
+    color: #000;
+}
+.block span {
+    color: #FF001E;
+font-size: 24px;
+font-weight: 700;
+line-height: normal;
+}
+.block p {
+    color: #000;
+font-size: 14px;
+font-weight: 400;
+line-height: normal;
+}
+.aboutt {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    margin: 30px 0;
+}
+.info1 {
+    width: 330px;
+height: 161px;
+background-color: #FFF;
+text-align: center;
+flex-direction: column;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 12px;
+}
+.about-btn button {
+    padding: 15px 40px;
+    border-radius: 10px;
+background: #FF001E;
+color: #fff;
+border: none;
+
+}
+.about-btn {
+    flex-direction:reverse;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 10px;
+}

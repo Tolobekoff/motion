@@ -1,0 +1,28 @@
+#studio {
+    background: #222;
+    padding: 30px 0;
+}
+.studio {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.studio img {
+    width: 200px;
+}
+.studio-text h3{
+    color: #FF001E;
+font-size: 28px;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.084px;
+margin: 20px 0;
+}
+.studio-text p {
+    
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.048px;
+}

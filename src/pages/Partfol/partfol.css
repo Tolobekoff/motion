@@ -1,0 +1,16 @@
+#partfol {
+    padding: 20px 0;
+    background: #222;
+    
+}
+.partfol {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.partfol img {
+    width: 390px;
+    margin: 10px 0;
+}

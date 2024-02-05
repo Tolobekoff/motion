@@ -1,0 +1,15 @@
+@import './Global.css';
+@import "./components/Header/header.css";
+@import "./pages/Site/Servis/servis.css";
+@import "./pages/Site/OurJob/ourJob.css";
+@import "./pages/Site/Product/product.css";
+@import "./pages/Site/Studio/studio.css";
+@import "./pages/Site/Technology/tech.css";
+@import "./pages/Site/Footer/footer.css";
+@import "./pages/Logos/Hero/hero.css";
+@import "./pages/Logos/About/about.css";
+@import "./pages/Logos/Footer/footer.css";
+@import "./pages/Base/base.css";
+@import "./pages/Sale/sale.css";
+@import "./pages/Partfol/partfol.css";
+@import "./pages/Uslugi/uslugi.css"

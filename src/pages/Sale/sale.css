@@ -1,0 +1,99 @@
+#sale {
+background: #222;
+padding: 20px 0;
+}
+.sale {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;    
+    justify-content: space-between;
+    
+    
+}
+.card {
+    width: 385px;
+    height: 267px;
+    background: url(../../components/images/sale-img1.svg);
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 20px 0;
+}
+.card2 {
+    width: 385px;
+    height: 267px;
+    background: url(../../components/images/sale-img2.svg);
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 20px 0;
+    margin: 0 10px;
+}
+.card3 {
+    width: 385px;
+    height: 267px;
+    background: url(../../components/images/sale-img3.svg);
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 20px 0;
+}
+
+.card4 {
+    width: 385px;
+    height: 267px;
+    background: url(../../components/images/sale-img4.svg);
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 20px 0;
+    margin: 10px 0;
+}
+.card h4 {
+    color: #FF001E;
+font-size: 25px;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.075px;
+}
+.card p {
+    color: #fff;
+}
+.card2 h4 {
+    color: #FF001E;
+font-size: 25px;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.075px;
+}
+.card2 p {
+    color: #fff;
+}
+.card3 h4 {
+    color: #FF001E;
+font-size: 25px;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.075px;
+}
+.card3 p {
+    color: #fff;
+}
+.card4 h4 {
+    color: #FF001E;
+font-size: 25px;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.075px;
+}
+.card4 p {
+    color: #fff;
+}
